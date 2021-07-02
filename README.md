@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm "Costliness" aka "joylol
-![](https://komarev.com/ghpvc/?username=costliness)
+![](https://komarev.com/ghpvc/?username=costliness&color=FF0000)
 
 ## 🏄‍ Projects
 *  Japanese Military 1940's
