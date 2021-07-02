@@ -1,2 +1,2 @@
-name: Spotify - Play
-uses: SvanBoxel/spotify-action@1.0.3
+GITHUB_EVENT_PATH="sample-payload.json" SONG="<SONG_SEARCH_QUERY>" TOKEN="BQAv282Cj87ub6GLE14nEn02VAfU96iXZMuvL2j6miXwg-cHOktDcDFp_PuLYaXYgQx-2WISmMDjhxT-rVdkPG34brR6XSjnX6f3DuTIYMS-dQwpX5k-KDddfCKVMJ39PJbMKNuk9p6aVfEaDVWi_l2zGI94J5-oeXIg3POj79Ii
+" node action.js
