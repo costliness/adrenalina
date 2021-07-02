@@ -1,6 +1,4 @@
-!(https://i.vgy.me/Om35P4.png)
-
-# 👋 Hi, I'm "Costliness" aka "joylol"
+![# 👋 Hi, I'm "Costliness" aka "joylol"](https://i.vgy.me/Om35P4.png)
 
 ## 🏄‍ Projects
 * • Japanese Military 1940's
