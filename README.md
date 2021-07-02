@@ -1,4 +1,4 @@
-👋 Hi, I'm "Costliness" aka "joylol
+## 👋 Hi, I'm "Costliness" aka "joylol
 
 ## 🏄‍ Projects
 *  Japanese Military 1940's
@@ -11,3 +11,4 @@
 *  xNetwork Service
 
 *  Contributed to Halvik
+*  Contributed to Fuscous Network
